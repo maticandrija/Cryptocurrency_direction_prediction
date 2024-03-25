@@ -4,9 +4,9 @@ This project is my take to replicate findings from the study on cryptocurrency p
 Name of the paper is: Prediction of Cryptocurrency Returns using Machine Learning by Akyldrim et al.(2021).
 Link to the paper: https://link.springer.com/article/10.1007/s10479-020-03575-y
 
-In this study, we considered twelve cryptocurrencies and studied their predictability using machine learning classification algorithms over two different time scales. (Daily and 15-min returns)
+In this study,predictability of twelve cryptocurrencies are being studied using machine learning classification algorithms over two different time scales. (Daily and 15-min returns)
 
-We have used three different classification algorithms:
+I have used three different classification algorithms:
 - Logistic Regression, 
 - Support Vector Machines
 - Feed Forward Neural Network 
